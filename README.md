@@ -22,6 +22,8 @@ Se incluye un archivo de simulación que modela el diseño eléctrico y el compo
 La sección analítica se presenta mediante documentos en **Jupyter Notebook**, donde se procesan los datos recabados en cada ensayo.
 * **Visualización:** Generación de gráficas de formas de onda, espectros armónicos y perfiles de carga.
 * **Interpretación:** Comparativa de datos experimentales frente a normativas vigentes de calidad de energía.
+* EL ENLACE PARA ACUDIR A LA DOCUMENTACIÓN ELABORADA EN JUPYTER:
+* https://drive.google.com/drive/folders/1aEBNQYb_Jq_yXv4EVQG9MfmeY78eRfvU?usp=drive_link
 
 ---
 
