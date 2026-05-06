@@ -28,9 +28,11 @@ La sección analítica se presenta mediante documentos en **Jupyter Notebook**, 
 ---
 
 ## Estructura del Repositorio
+*`0 Grupo 3 Explicacion Jupyter Notebooks`: Video rapido explicando los contenidos de los Jupyter Notebooks y su relevancia
 * `/Capturas_Ensayos`: Evidencia de mediciones con Lucas Nulle y Circutor.
 * `/Simulacion_Clinica`: Archivos de diseño y modelado de la oficina dental.
 * `/Notebooks_Analisis`: Documentos interactivos con el tratamiento de datos y gráficas.
+* 
 
 ---
 **Autores:** Jaime Salinas Reche, Enrique Antonio Raudales Rodríguez, Alejandro Gonzalez Capel. 
